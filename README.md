@@ -1,0 +1,2 @@
+# OpenGL
+Projekt GKOM OpenGL
